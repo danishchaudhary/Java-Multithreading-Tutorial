@@ -1,4 +1,4 @@
-package multithreading.chapt1;
+package chapt1;
 
 public class Chapter1 {
 
